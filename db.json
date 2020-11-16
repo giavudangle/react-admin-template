@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post #1",
+      "body": "Body post #1",
+      "publishedAt": "16-11-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post #2",
+      "body": "Body post #2",
+      "publishedAt": "16-11-2020"
+    },
+    {
+      "title": "Test API",
+      "author": "vudang",
+      "desc": "Post created from test api",
+      "id": "AwFtaIr"
+    },
+    {
+      "title": "Test API",
+      "author": "vudang",
+      "desc": "Post created from test api",
+      "id": "1xq_qQq"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Vudang",
+      "email": "kms.vudang@gmai.com"
+    }
+  ]
+}
