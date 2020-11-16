@@ -1,28 +1,22 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "Post #1",
-      "body": "Body post #1",
-      "publishedAt": "16-11-2020"
+      "title": "POST #1",
+      "body": "POST #1",
+      "publishedAt": "2020-11-15",
+      "id": 1
     },
     {
-      "id": "2",
-      "title": "Post #2",
-      "body": "Body post #2",
-      "publishedAt": "16-11-2020"
+      "title": "POST #2",
+      "body": "POST #1",
+      "publishedAt": "2020-11-16",
+      "id": 2
     },
     {
-      "title": "Test API",
-      "author": "vudang",
-      "desc": "Post created from test api",
-      "id": "AwFtaIr"
-    },
-    {
-      "title": "Test API",
-      "author": "vudang",
-      "desc": "Post created from test api",
-      "id": "1xq_qQq"
+      "title": "POST#99",
+      "body": "POST #3",
+      "publishedAt": "2020-11-21",
+      "id": 3
     }
   ],
   "users": [
@@ -30,6 +24,36 @@
       "id": "1",
       "name": "Vudang",
       "email": "kms.vudang@gmai.com"
+    },
+    {
+      "name": "KAKAKKA",
+      "email": "kamamam@gmail.com\n",
+      "id": "0KlNr7y"
+    },
+    {
+      "name": "Vuvuvasd",
+      "email": "Vuvuvasd",
+      "id": "BSLDno8"
+    },
+    {
+      "name": "Vuvuvasd",
+      "email": "Vuvuvasd",
+      "id": "G1DqVnE"
+    },
+    {
+      "name": "Vuvuvasd",
+      "email": "Vuvuvasd",
+      "id": "w467tCG"
+    },
+    {
+      "name": "Vuvuvasd",
+      "email": "Vuvuvasd",
+      "id": "8Cm-o-f"
+    },
+    {
+      "name": "Vuvuvasd",
+      "email": "Vuvuvasd",
+      "id": "Wx-g0qM"
     }
   ]
 }
